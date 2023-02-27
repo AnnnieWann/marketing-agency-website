@@ -32,6 +32,6 @@ The website was built using the following technologies:
 To run the website locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/AnnnieWann/marketing-agency-website.git`
-2. Navigate to the project directory: `cd <repository>`
+2. Navigate to the project directory: `cd marketing-agency-website`
 3. Open `index.html` in your web browser.
 
