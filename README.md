@@ -1,4 +1,4 @@
-<img src="./marketing-agency-website.gif" width="600" height="600"/>
+<img src="./marketing-agency-website.gif"/>
 
 # Marketing Agency Website
 
