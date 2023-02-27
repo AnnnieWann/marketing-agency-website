@@ -1,4 +1,4 @@
-![Marketing Agency Screenshot](./marketing-agency-website.gif)
+<img src="./marketing-agency-website.gif" width="600" height="600"/>
 
 # Marketing Agency Website
 
